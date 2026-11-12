@@ -5,7 +5,6 @@ app = FastAPI(
     title="API DevOps de Tarefas",
     description="API didática para demonstrar testes, CI e Docker.",
     version="1.0.0",
-    
 )
 
 
